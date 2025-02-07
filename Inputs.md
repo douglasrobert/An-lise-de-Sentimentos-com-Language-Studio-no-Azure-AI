@@ -1,8 +1,8 @@
-#Analisando textos com Language Studio#
+# Analisando textos com Language Studio
 
-##TEXTO:##
+## TEXTO:
 
- Tired hotel with poor service
+### Tired hotel with poor service
  The Royal Hotel, London, United Kingdom
  5/6/2018
  1 - This is an old hotel (has been around since 1950's) and the room furnishings are average - becoming a bit old now and require changing.
